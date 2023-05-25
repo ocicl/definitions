@@ -1,0 +1,9 @@
+* definitions
+
+General definitions reflection library
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/Shinmera/definitions.git |
+| commit  | 1f4bd7a                                         |
+| systems | definitions                                     |
+|---------+-------------------------------------------------|
