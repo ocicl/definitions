@@ -4,6 +4,6 @@ General definitions reflection library
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/Shinmera/definitions.git |
-| commit  | 71b1d35                                         |
+| commit  | 9ce11cd                                         |
 | systems | definitions                                     |
 |---------+-------------------------------------------------|
