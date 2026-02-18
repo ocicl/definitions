@@ -4,6 +4,6 @@ General definitions reflection library
 
 |---------+-------------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/definitions.git |
-| commit  | 8697960                                         |
+| commit  | 0000000                                         |
 | systems | definitions                                     |
 |---------+-------------------------------------------------|
